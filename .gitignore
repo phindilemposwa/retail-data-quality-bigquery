@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Python cache
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Data folders
+data/raw/
+data/clean/
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Spark
+spark-warehouse/
+
+# Logs
+*.log
+
+# Mac files
+.DS_Store
